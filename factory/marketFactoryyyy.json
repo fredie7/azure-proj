@@ -1,0 +1,9 @@
+{
+	"name": "marketFactoryyyy",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eebf4dc3-ad20-443a-8a2a-9ab0a200e38a",
+		"tenantId": "4f76d3ed-73a3-4ae8-9e8f-8d39080d6434"
+	}
+}
