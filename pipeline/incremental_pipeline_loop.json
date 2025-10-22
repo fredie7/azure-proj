@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "ForEach1",
+				"name": "ForEach___dynamic__injestion",
 				"type": "ForEach",
 				"dependsOn": [],
 				"userProperties": [],
