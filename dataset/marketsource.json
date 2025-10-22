@@ -1,0 +1,12 @@
+{
+	"name": "marketsource",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "linkedServiceDB",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
