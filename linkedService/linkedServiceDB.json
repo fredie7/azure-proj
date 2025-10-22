@@ -1,0 +1,17 @@
+{
+	"name": "linkedServiceDB",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "markerdbserver.database.windows.net",
+			"database": "marketDB",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "fredie",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDUyNUI3MEUzLUMwRDgtNDY1OC04MjIxLTlFNTNGQ0RBMDVDMl84YWNkYjA2Ni0zOTZjLTRmNzYtOTY4ZS1jZjYzZGJjOWZmMDMiDQp9"
+		}
+	}
+}
